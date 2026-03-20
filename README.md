@@ -1,4 +1,4 @@
-Oi! 👋😺 Meu nome é Julia Sousa Mesquita
+Oi! 👋😺 Meu nome é Julia Meskita
 =============================================================================================================================================
 
 Sou estudante de Ciência da Computação e tenho grande interesse na área de tecnologia. Ainda estou explorando diferentes caminhos dentro da programação, mas já venho desenvolvendo projetos práticos, principalmente com foco em desenvolvimento web.
