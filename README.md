@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação e tenho grande interesse na área de t
 Tenho facilidade de aprendizado e gosto de transformar o que estudo em projetos reais, sempre buscando evoluir constantemente minhas habilidades.
 
 * 🌍  Localizada em Brasília
-* 🖥️  Dê uma olhada no meu portifólio [MeskitaSukin](http://docs.google.com/document/d/1vej3jy_dblUv7jdHYyrEwOAnZDoQoPBNeKVsuXkVFX4/edit?tab=t.0)
+* 🖥️  Dê uma olhada no meu currículo [JuliaMesquita](http://docs.google.com/document/d/1vej3jy_dblUv7jdHYyrEwOAnZDoQoPBNeKVsuXkVFX4/edit?tab=t.0)
 * ✉️  Entre em contato [julia.sousamesq@gmail.com](mailto:julia.sousamesq@gmail.com)
 * 🧠  Atualmente estou aprendendo JavaScript, Python, C, Git, Desenvolvimento Web, Lógica de Programação
 * 💜  Sempre buscando aprender algo novo e evoluir um pouco a cada projeto.
