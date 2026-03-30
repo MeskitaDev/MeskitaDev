@@ -16,4 +16,4 @@ Tenho facilidade de aprendizado e gosto de transformar o que estudo em projetos 
 </p>
 <hr>
 <img width="150" height="auto" alt="logo eye" src="https://github.com/user-attachments/assets/9c910c27-1423-4a9a-b438-4ef7b3a06986" />
-<img width="80" height="auto" alt="cursor" src="https://github.com/user-attachments/assets/6016d181-f4ed-4d86-9838-fb161143ed1e" />
+<img width="80" height="auto" alt="cursor" src="https://github.com/user-attachments/assets/6016d181-f4ed-4d86-9838-fb161143ed1e" />      Acesse meu portifólio em <a href="https://mesquitasukin.github.io/Portifolio/">< Portifolio-JuMeskita ></a>
