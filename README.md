@@ -1,4 +1,4 @@
-<h1 align="center">Oi! 👋😺, eu sou a Jú Meskita</h1>
+<h1 align="center">Oi!, eu sou a Julia Meskita</h1>
 
 <img width="2486" height="351" alt="banner" src="https://github.com/user-attachments/assets/08123bd3-c1a0-4208-9f65-20108ab02f85" />
 
