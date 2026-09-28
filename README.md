@@ -1,25 +1,53 @@
-<h1 align="center">Oi!, eu sou a Julia Meskita</h1>
+---
+<h3 align="center">HELLO WORLD!</h3>
+<h1 align="center">Me chamo Meskita</h1>
+<img width="2486" height="351" alt="banner" src="https://github.com/MeskitaDev/Portifolio-MeskDev/blob/main/img/banner.png?raw=true" />
+<h4>Gosto de criar projetos que unem lógica, criatividade e experiência visual.</h4>
+<p>Ainda estou explorando diferentes caminhos dentro da programação, mas já venho desenvolvendo projetos práticos, principalmente com foco em desenvolvimento web. Tenho facilidade de aprendizado e gosto de transformar o que estudo em projetos reais, sempre buscando evoluir constantemente minhas habilidades</p>
 
-<img width="2486" height="351" alt="banner" src="https://github.com/user-attachments/assets/08123bd3-c1a0-4208-9f65-20108ab02f85" />
+---
 
-<h3>Sou estudante de Ciência da Computação e tenho grande interesse na área de tecnologia.</h3>
-<h4>Ainda estou explorando diferentes caminhos dentro da programação, mas já venho desenvolvendo projetos práticos, principalmente com foco em desenvolvimento web. Tenho facilidade de aprendizado e gosto de transformar o que estudo em projetos reais, sempre buscando evoluir constantemente minhas habilidades.
-</h4>
-<br>
+### 🚀 Sobre mim
 
-* 🌍  Localizada em Brasília
-* 🖥️  Dê uma olhada no meu currículo [JuliaMesquita](http://docs.google.com/document/d/1vej3jy_dblUv7jdHYyrEwOAnZDoQoPBNeKVsuXkVFX4/edit?tab=t.0)
-* ✉️  Entre em contato [julia.sousamesq@gmail.com](mailto:julia.sousamesq@gmail.com)
-* 📮 Conecte-se comigo no <a href="https://linkedin.com/in/https://www.linkedin.com/in/juliamesq/?skipredirect=true" target="blank">LinkedIn</a>
-* 🧠  Atualmente estou aprendendo JavaScript, C, Git, Lógica de Programação
-* 💜  Sempre buscando aprender algo novo e evoluir um pouco a cada projeto.
-<br>
+- 📍 **Localização:** Brasília, DF - Brasil
+- 🎓 **Educação:** Bacharelado em Ciência da Computação (CEUB)
+- 💡 **Foco Atual:** Desenvolvimento Web Full-stack, Next.js, TypeScript e Integrações de IA
+- 🧠  Atualmente estou aprendendo Java e JavaScript.
+- 💜  Sempre buscando aprender algo novo e evoluir um pouco a cada projeto.
 
-<h4 align="center">Linguagens e Ferramentas:</h4>
-<p align="center"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<hr>
-<img width="80" height="auto" alt="logo eye" src="https://github.com/user-attachments/assets/9c910c27-1423-4a9a-b438-4ef7b3a06986" />
-<img width="60" height="auto" alt="cursor" src="https://github.com/user-attachments/assets/6016d181-f4ed-4d86-9838-fb161143ed1e" />
+### 💻 Tech Stack & Ferramentas
 
-[![portfolio](https://img.shields.io/badge/meu_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://MeskitaDev.github.io/Portifolio/)
+#### **Front-end & UI/UX**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### **Back-end, BaaS & Ferramentas**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+---
+
+### 📬 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliamesq)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julia.sousamesq@gmail.com)
+<a href="https://docs.google.com/document/d/1vej3jy_dblUv7jdHYyrEwOAnZDoQoPBNeKVsuXkVFX4/edit?usp=sharing">
+  <img src="https://img.shields.io/badge/Currículo-85ddf4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Currículo" />
+</a>
+
+---
+<span align="center">
+<a href="https://meskitadev.github.io/Portifolio-MeskDev/home.html">
+  <img src="https://img.shields.io/badge/VISITE_MEU_PORTFÓLIO-fc7aae?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Portfólio" />
+</a>
+</span>
